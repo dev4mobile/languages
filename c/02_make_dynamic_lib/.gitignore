@@ -2,3 +2,5 @@
 .idea/*
 .history
 .vscode
+.o
+.so
