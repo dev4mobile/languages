@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/opc/workspace/languages/rust'
+make: Leaving directory '/home/opc/workspace/languages/rust'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

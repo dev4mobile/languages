@@ -1,0 +1,9 @@
+{
+	"makefile.extensionOutputFolder": "./.vscode",
+	"files.associations": {
+		"pcre2posix.h": "c",
+		"pcre2.h": "c",
+		"stdio.h": "c",
+		"string.h": "c"
+	}
+}
